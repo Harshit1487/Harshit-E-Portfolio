@@ -6,7 +6,7 @@ body{
 /*--------------header css--------------*/
 #header{
     height: 100vh;
-    background-image: url(image.jpg);
+    background-image: url(pic/image.jpg);
     /* background: url(https://wallpaperset.com/w/full/0/2/8/432200.jpg); */
     background-position: center;
     background-size: cover;
